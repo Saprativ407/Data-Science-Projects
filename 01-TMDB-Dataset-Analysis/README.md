@@ -1,5 +1,4 @@
 # TMDB Movies Dataset Analysis 
-### Udacity Become a Data Analyst Nanodegree | Project 2
 
 | Contents 											 	   	|
 | -------- 											 	   	|
@@ -42,7 +41,7 @@ This data set contains information about 10,000 movies extracted from [TMDB](htt
 - Is there a correlation between a movie budget and its revenue?
 
 ## Data Wrangling:
-Our data can be found on `tmdb-movies.csv` file provided on this repository. It is an edited version of the original Kaggle's [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) provided by Udacity on the Become a Data Analyst Nanodegree Program. 
+The data can be found on `tmdb-movies.csv` file provided on this repository. It is an edited version of the original Kaggle's [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) 
 
 ## Data Cleaning:
 **Main Observations:**
